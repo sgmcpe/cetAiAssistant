@@ -1,2 +1,3 @@
-# cetAiAssistant
-uni-app 四六级 AI 语音答疑刷题备考助手
+# CET AI Assistant｜四六级 AI 语音答疑备考助手
+
+基于 uni-app + Vue3 的四六级备考工具，支持阅读、听力、翻译、写作练习与生词本、错题本，并可接入 AI 进行语音答疑和解题讲解。
