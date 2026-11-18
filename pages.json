@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "path": "pages/settings/settings",
+      "style": {
+        "navigationBarTitleText": "四六级备考助手",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/read/read",
+      "style": {
+        "navigationBarTitleText": "精读",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/quiz/quiz",
+      "style": {
+        "navigationBarTitleText": "做题",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/word/word",
+      "style": {
+        "navigationBarTitleText": "生词库",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/mistake/mistake",
+      "style": {
+        "navigationBarTitleText": "错题本",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/listen/listen",
+      "style": {
+        "navigationBarTitleText": "精听",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/intensive/intensive",
+      "style": {
+        "navigationBarTitleText": "精翻",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/record/record",
+      "style": {
+        "navigationBarTitleText": "练习记录",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "四六级备考助手",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff"
+  },
+  "uniIdRouter": {}
+}
